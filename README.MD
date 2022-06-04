@@ -16,7 +16,7 @@ abbb
 cccc
 aaaa
 
-#### (empty)
+'####'
 aaaa
 abbb
 aaaa
