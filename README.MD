@@ -22,16 +22,16 @@ abbb
 aaaa
 Movement cost: 1.
 
-####
-####
-####
+'####'
+'####'
+'####'
 bbb#
 Movement cost: 1.
 
-####
-####
-####
-####
+'###'
+'###'
+'###'
+'###'
 Movement cost: 1.
 
 Total: 3 moves with a total cost of 3. 
