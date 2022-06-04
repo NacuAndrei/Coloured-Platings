@@ -35,7 +35,6 @@ Movement cost: 1.
 Movement cost: 1.
 
 Total: 3 moves with a total cost of 3. 
-
 Used A-star algorithm + BF / DF for eficiency comparison.
------
+
 -2nd year of university
